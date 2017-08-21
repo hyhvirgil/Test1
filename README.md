@@ -1,2 +1,1 @@
-echo 
-echo 
+# Git 教程 
